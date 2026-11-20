@@ -1,6 +1,14 @@
-# Olá, eu sou o Lucas! 👋
+<div align="center">
+  <img src="assets/banner.svg" width="100%" alt="Lucas Mir - Lucas Programando"/>
+</div>
 
-💻 Estudante de Engenharia de Software e Técnico em Informática, apaixonado por tecnologia, desenvolvimento de sistemas e infraestrutura.
+<br>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1400&color=9875C9&center=true&vCenter=true&width=650&lines=Desenvolvedor+em+forma%C3%A7%C3%A3o;Java+%E2%80%A2+Python+%E2%80%A2+C+%E2%80%A2+SQL;Linux+%E2%80%A2+Docker+%E2%80%A2+Git;Construindo+projetos+e+evoluindo+todos+os+dias" alt="Apresentação animada"/>
+</div>
+
+<br>
 
 # 💻 Perfil
 
