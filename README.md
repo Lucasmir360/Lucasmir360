@@ -4,7 +4,7 @@
 
 # 💻 Perfil
 
-    import Desenvolvedor from 'LucasMir';
+    import Desenvolvedor from 'Lucas Mir';
     class SobreMim extends Desenvolvedor {
       nome     = 'Lucas Mir Martins';
       area     = 'Desenvolvimento de Software';
