@@ -80,7 +80,7 @@
 # 🎓 Formação acadêmica
 
 <div align="left">
-  <img src="https://www.uftm.edu.br/images/comunicacao/identidadevisual/v5/logotipo-uftm-versao-1.jpg" width="65" align="left" />
+  <img src="assets/logos/ampli.png" width="65" align="left" />
   <strong>Engenharia de Software</strong><br>
   Ampli — Graduação em andamento
 </div>
@@ -96,9 +96,34 @@
 <br clear="left">
 
 <div align="left">
-  <img src="https://www.mg.gov.br/favicon.ico" width="65" align="left" />
+  <img src="assets/logos/logo_bernardo_vasconcelos-e1545159793351.png" width="65" align="left" />
   <strong>Ensino Médio</strong><br>
   Escola Estadual Bernardo Vasconcelos — Concluído
 </div>
 
 <br clear="left">
+
+# ✉️ Contatos
+Conecte-se comigo em outras redes! Se precisar de ajuda ou tiver dúvidas e sugestões, me mande uma mensagem 😉
+<div align="left">
+  <a href="https://github.com/Lucasmir360">
+    <img src="https://img.shields.io/badge/GitHub-Lucasmir360-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/lucas-mir-54a6a3249/">
+    <img src="https://img.shields.io/badge/LinkedIn-Lucas_Mir-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
+
+# 📈 Estatísticas do GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lucasmir360&show_icons=true&theme=dark&include_all_commits=true&count_private=false&rank_icon=github&hide_border=false" width="495" />
+</div>
+
+# ☕ Café & Código
+
+Transformando café em código e ideias em projetos! ☕
+
+Sou apaixonado por tecnologia, desenvolvimento de software e aprendizado contínuo. Gosto de explorar novas tecnologias, construir projetos, aprender com os desafios e compartilhar um pouco da minha jornada por aqui.
+
+Acredito que todo grande projeto começa com uma ideia, muita curiosidade e, claro, uma boa xícara de café. 🚀
