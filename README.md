@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner.svg" width="100%" alt="Lucas Mir - Lucas Programando"/>
+  <img src="assets/banner.svg" width="100%" alt="Lucas Mir - Mir Bytes"/>
 </div>
 
 <br>
