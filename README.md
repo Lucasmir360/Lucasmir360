@@ -127,3 +127,9 @@ Transformando café em código e ideias em projetos! ☕
 Sou apaixonado por tecnologia, desenvolvimento de software e aprendizado contínuo. Gosto de explorar novas tecnologias, construir projetos, aprender com os desafios e compartilhar um pouco da minha jornada por aqui.
 
 Acredito que todo grande projeto começa com uma ideia, muita curiosidade e, claro, uma boa xícara de café. 🚀
+
+# 🐍 Gráfico de contribuições
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Lucasmir360/Lucasmir360/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
